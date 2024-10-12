@@ -12,7 +12,8 @@ app.use(cors({
             'https://shabuj-global-main.vercel.app',
             'https://studyuk.today',
             'http://localhost:3000',
-            'https://sge-next.vercel.app'
+            'https://sge-next.vercel.app',
+            'https://next.studyuk.today'
            ],
     credentials:true
 
